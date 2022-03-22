@@ -1,4 +1,4 @@
-# 인터넷은 어떻게 작동될까요?
+# 인터넷은 어떻게 작동될까?
 
 인터넷은 앱의 핵심적인 기술이다. 컴퓨터들이 서로 통신 가능한 거대한 네트워크 이것이 인터넷이다.
 
@@ -18,7 +18,7 @@
 
 <br>
 
-<div style="text-align : center"><img src="images/onebyone.png"></div>
+![onebyone.png](images/onebyone.png)
 
 <br>
 
@@ -26,7 +26,7 @@
 
 <br>
 
-<div style="text-align : center"><img src="images/manybymany.png"></div>
+![manybymany.png](images/manybymany.png)
 
 <br>
 
@@ -36,7 +36,7 @@
 
 <br>
 
-<div style="text-align : center"><img src="images/usingrouter.png"></div>
+![usingrouter.png](images/usingrouter.png)
 
 <br>
 <hr>
@@ -47,7 +47,7 @@
 
 <br>
 
-<div style="text-align : center"><img src="images/routerbyrouter.png"></div>
+![routerbyrouter.png](images/routerbyrouter.png)
 
 <br>
 
@@ -55,7 +55,7 @@
 
 <br>
 
-<div style="text-align : center"><img src="images/manyrouter.png"></div>
+![manyrouter.png](images/manyrouter.png)
 
 <br>
 
@@ -63,7 +63,7 @@
 
 <br>
 
-<div style="text-align : center"><img src="images/usingmodem.png"></div>
+![usingmodem.png](images/usingmodem.png)
 
 <br>
 
@@ -71,6 +71,6 @@
 
 <br>
 
-<div style="text-align : center"><img src="images/usingISP.png"></div>
+![usingISP.png](images/usingISP.png)
 
 <br>
