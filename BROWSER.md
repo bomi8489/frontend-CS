@@ -68,9 +68,11 @@ HTML의 규칙에 맞게 스타일 정보를 사용하여 렌더 트리를 생�
 네트워크로부터 나머지 내용이 전송되기 기다리는 동시에, 받은 내용의 일부를 먼저 화면에 표시한다.<br>
 
 - webkit
+
 ![webkit.png](./images/webkit.png)
 
 - Gecko
+
 ![gecko.png](./images/gecko.png)
 
 > 렌더 트리(Render Tree)<br>
