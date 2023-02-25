@@ -1,4 +1,4 @@
-# DNS의 작동원리
+# DNS의 작동원리와 Domain Name
 
 ## DNS(Domain Name System) 란?
 
