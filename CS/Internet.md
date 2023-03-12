@@ -18,7 +18,7 @@
 
 <br>
 
-![onebyone.png](images/onebyone.png)
+![onebyone.png](./images/onebyone.png)
 
 <br>
 
@@ -26,7 +26,7 @@
 
 <br>
 
-![manybymany.png](images/manybymany.png)
+![manybymany.png](./images/manybymany.png)
 
 <br>
 
@@ -36,7 +36,7 @@
 
 <br>
 
-![usingrouter.png](images/usingrouter.png)
+![usingrouter.png](./images/usingrouter.png)
 
 <br>
 <hr>
@@ -47,7 +47,7 @@
 
 <br>
 
-![routerbyrouter.png](images/routerbyrouter.png)
+![routerbyrouter.png](./images/routerbyrouter.png)
 
 <br>
 
@@ -55,7 +55,7 @@
 
 <br>
 
-![manyrouter.png](images/manyrouter.png)
+![manyrouter.png](./images/manyrouter.png)
 
 <br>
 
@@ -63,7 +63,7 @@
 
 <br>
 
-![usingmodem.png](images/usingmodem.png)
+![usingmodem.png](./images/usingmodem.png)
 
 <br>
 
@@ -71,6 +71,6 @@
 
 <br>
 
-![usingISP.png](images/usingISP.png)
+![usingISP.png](./images/usingISP.png)
 
 <br>

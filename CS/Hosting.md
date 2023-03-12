@@ -8,7 +8,7 @@
 
 ## 웹 호스팅
 
-![web-hosting.png](/images/web-hosting.png)
+![web-hosting.png](./images/web-hosting.png)
 
 웹 호스팅은 려거 고객이 하나의 서버를 함께 사용하는 형태이다. <br>
 하나의 서버를 나우어 쓰기 때문에 저렴하게 이용할 수 있고, 호스팅 업체의 통합 관리를 받기에 편리하다.
@@ -37,7 +37,7 @@
 
 ## 정리
 
-![Hosting.png](/images/Hosting.png)
+![Hosting.png](./images/Hosting.png)
 
 <br>
 
@@ -49,4 +49,4 @@
 
 <br>
 
-![hosting-way.png](/images/hosing-way.png)
+![hosting-way.png](./images/hosing-way.png)
