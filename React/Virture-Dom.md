@@ -12,6 +12,7 @@ DOM은 `Document Object Model` 의 약자로 문서 객체 모델을 의미하�
 
 
 HTML의 DOM tree
+
 ![Dom-tree](./images/Dom-tree.png)
 
 즉, DOM은 HTML과 Javascript를 서로 이어주는 역할을 하는 것이다.
